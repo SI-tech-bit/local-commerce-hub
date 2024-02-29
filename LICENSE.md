@@ -1,4 +1,4 @@
-PiOS License
+Pi-ecommerce Burundi Deals/PiOS License
 
 Copyright (C) 2022 Pi Core Team
 
