@@ -1,5 +1,3 @@
-Pi-ecommerceBurundiDeals/PiOS License,
-Ubuntu National Finance Society,
 
 Copyright (C) 2022 Pi Core Team
 
