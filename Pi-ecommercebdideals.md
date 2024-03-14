@@ -2,7 +2,7 @@
 E-commerce app for Pi Network
 pi-ecommerce
 E-commerce app for Pi Network
-Pi-ecommerce Burundi Deals
+Sofina Burundi Deals
 import1 ;rice
 import2 ;cornflour
 import3 ;Beans
