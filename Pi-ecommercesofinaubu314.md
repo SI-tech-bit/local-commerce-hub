@@ -1,9 +1,9 @@
-[Sofinabdideals]
+[Sofinaubu314]
 #pi-ecommerce
 E-commerce app for Pi Network
 pi-ecommerce
 E-commerce app for Pi Network
-Sofina Burundi Deals
+Sofinaubu314
 import1 ;rice
 import2 ;cornflour
 import3 ;Beans
